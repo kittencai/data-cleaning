@@ -1,0 +1,7 @@
+The variables including in the dataset list as followed:
+
+activity: 6 kinds of activities used to measure the figure.
+subject: 30 kinds of subjects used to measure the figure.
+other variables: mean and standard deviation of the data figure.
+
+The final clean dataset is the average figure for one certain activity and subject.
